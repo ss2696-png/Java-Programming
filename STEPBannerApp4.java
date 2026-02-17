@@ -1,4 +1,4 @@
-public class STEPBannerApp4 {
+public class java_programming {
     public static void main(String[] args) {
 
         
@@ -18,3 +18,4 @@ public class STEPBannerApp4 {
         }
     }
 }
+
