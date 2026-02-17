@@ -1,5 +1,5 @@
 
-        public class STEPBannerApp3 {
+        public class java_programming {
       public static void main(String[] args){
 	
 		    System.out.println("...");		   
@@ -12,4 +12,5 @@
 			System.out.println(String.join(" ","   ***   " , " ", "   ***   " , " ", " **      " , " ", "  *****  "));
     }
 }
+
 
